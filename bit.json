@@ -5,37 +5,7 @@
       "Semester": "1",
       "Subject": "IS",
       "Year": "2011",
-      "Link": "sfadfadfda.df/zxczxczxcxc.json"
-    },
-    {
-      "Semester": "2",
-      "Subject": "ISdd",
-      "Year": "2013",
-      "Link": "sfadfadfda.df/xfffdsdfc.json"
-    },
-    {
-      "Semester": "1",
-      "Subject": "Iddd",
-      "Year": "2010",
-      "Link": "sfadfadfda.df/xjhgjghc.json"
-    },
-    {
-      "Semester": "1",
-      "Subject": "ISww",
-      "Year": "2011",
-      "Link": "sfadfadfda.df/xafaAAc.json"
-    },
-    {
-      "Semester": "1",
-      "Subject": "ISww",
-      "Year": "2012",
-      "Link": "sfadfadfda.df/xDFEWEc.json"
-    },
-    {
-      "Semester": "1",
-      "Subject": "ISww",
-      "Year": "2006",
-      "Link": "sfadfadfda.df/xSDFDSFc.json"
+      "Link": "https://raw.githubusercontent.com/nizmy/BitQuiz/master/ExamPapers/sem1_is_2011.json"
     }
   ]
 }
