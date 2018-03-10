@@ -1,0 +1,209 @@
+{
+  "Exam_paper": "IT1104 – Information Systems & Technologies",
+  "Year": "2011",
+  "Questions": [
+    {
+      "Title": " Which of the following can be considered as a Transaction Processing System (TPS)?",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "a payroll system",
+        "b": "a system used to diagnose medical illnesses",
+        "c": "a system used to purchase goods on-line",
+        "d": "a point of sales system",
+        "e": "an order processing system"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "a",
+        "c",
+        "d",
+        "e"
+      ]
+    },
+    {
+      "Title": "Valuable information should be",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "complex.",
+        "b": "accurate.",
+        "c": "expensive.",
+        "d": "relevant.",
+        "e": "verifiable."
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "b",
+        "d",
+        "e"
+      ]
+    },
+    {
+      "Title": "Which of the following activities in the traditional software development life cycle determine(s) whether the\r\ndeveloped system is achieving the business needs of the organisation?",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "Systems Implementation",
+        "b": "Systems Review",
+        "c": "Systems Development",
+        "d": "Systems Maintenance",
+        "e": "Systems Analysis"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "b"
+      ]
+    },
+    {
+      "Title": "Which of the following helps to govern the operation of a computer system?",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "output",
+        "b": "input",
+        "c": "software",
+        "d": "feedback",
+        "e": "processing"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "c"
+      ]
+    },
+    {
+      "Title": "Data made up of numbers and letters are known as",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "image data.",
+        "b": "numeric data.",
+        "c": "alpha numeric data.",
+        "d": "noise data.",
+        "e": "spatial data."
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "c"
+      ]
+    },
+    {
+      "Title": "Some types of application software are given on the left hand side (A, B, C) and a brief description of these\r\nterms is given on the right (P, Q, R).",
+      "Text": "Match the terms with the CORRECT descriptions.",
+      "Imagelink": "https://imgur.com/a/wj0lg",
+      "Answers": {
+        "a": "A-R, B-P, C-Q",
+        "b": "A-R, B-Q,C-P",
+        "c": "A-Q, B-R, C-P",
+        "d": "A-Q, B-P, C-R",
+        "e": "A-P, B-Q, C-R"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "a"
+      ]
+    },
+    {
+      "Title": "The following statements are about organisational structures.",
+      "Text": "Identify the CORRECT statement/s.",
+      "Imagelink": "https://imgur.com/a/qJd5q",
+      "Answers": {
+        "a": "Only (i)",
+        "b": "Only (i) and (ii)",
+        "c": "Only (i) and (iii)",
+        "d": "Only (ii)",
+        "e": "(i), (ii) and (iii)"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "e"
+      ]
+    },
+    {
+      "Title": "Fill in the blank space with the most appropriate word.",
+      "Text": "A system uses ……………………. to monitor and control its operations to make sure that it continues to\r\nmeet its objectives.",
+      "Imagelink": "",
+      "Answers": {
+        "a": "input",
+        "b": "feedback",
+        "c": "output",
+        "d": "storage",
+        "e": "processing"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "b"
+      ]
+    },
+    {
+      "Title": "Which of the following definitions refer(s) to ‘timeliness’ which is a characteristic of valuable information?",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "ability to use the information for a variety of purposes",
+        "b": "contain all important facts",
+        "c": "error free information",
+        "d": "deliver information when it is required",
+        "e": "ability to verify whether the information is correct"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "d"
+      ]
+    }
+  ]
+}
