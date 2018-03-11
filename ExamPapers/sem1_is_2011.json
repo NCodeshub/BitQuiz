@@ -107,11 +107,11 @@
         "e": "spatial data."
       },
       "Answersimg": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "https://i.imgur.com/MClPoRh.jpg",
+        "b": "https://i.imgur.com/MClPoRh.jpg",
+        "c": "https://i.imgur.com/MClPoRh.jpg",
+        "d": "https://i.imgur.com/MClPoRh.jpg",
+        "e": "https://i.imgur.com/MClPoRh.jpg"
       },
       "CorrectAns": [
         "c"
@@ -151,8 +151,8 @@
         "e": "(i), (ii) and (iii)"
       },
       "Answersimg": {
-        "a": "",
-        "b": "",
+        "a": "https://i.imgur.com/MClPoRh.jpg",
+        "b": "https://i.imgur.com/MClPoRh.jpg",
         "c": "",
         "d": "",
         "e": ""
