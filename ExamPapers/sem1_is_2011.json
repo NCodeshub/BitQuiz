@@ -1,6 +1,7 @@
 {
   "Exam_paper": "IT1104 – Information Systems & Technologies",
   "Year": "2011",
+  "Time": "120",
   "Questions": [
     {
       "Title": " Which of the following can be considered as a Transaction Processing System (TPS)?",
