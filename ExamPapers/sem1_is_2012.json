@@ -1,0 +1,353 @@
+{
+  "Semester": "1",
+  "Exam_paper": "IT1104: Information Systems & Technology",
+  "Year": "2012",
+  "Time": 120,
+  "Questions": [
+    {
+      "Title": "Which of the following applications would you use to create an architectural drawing?",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "Auto CAD",
+        "b": "Visual Basic",
+        "c": "MS ACCESS",
+        "d": " Linux",
+        "e": "MS Paint"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "a"
+      ]
+    },
+    {
+      "Title": "Which of the following statement(s) is/are CORRECT about hardware components of an information system?",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "The Central Processing Unit (CPU) carries out the instructions of a computer program. ",
+        "b": "The memory (RAM) is normally used to store the computer's operating system, application software and data.",
+        "c": "A floppy disk is suited to holding large volumes of data that is unlikely to change often.",
+        "d": "MICR technology could be used to read information printed on bank cheques.",
+        "e": "The monitor is commonly used as an output device."
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "a",
+        "d",
+        "e"
+      ]
+    },
+    {
+      "Title": " In Value Chain Analysis, which of the following is/are NOT classed as (a) primary activity/(ies)?",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "Outbound logistics",
+        "b": "Sales & Marketing",
+        "c": " Service ",
+        "d": " Inbound logistics ",
+        "e": "Technology"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "e"
+      ]
+    },
+    {
+      "Title": "Which of the following is/are NOT (a) function(s) of an operating system?",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "Managing the computer's memory.",
+        "b": "Controlling access to storage devices, for example disk drives.",
+        "c": "Dealing with errors, for example by displaying a message to the user if a fault is detected within a hardware component. ",
+        "d": "Informing users when a data entry error occurs.",
+        "e": "Coordinating and controlling peripheral devices, for example printers.\r\n"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "d"
+      ]
+    },
+    {
+      "Title": "The following statements are based on application software.\r\n",
+      "Text": "Identify the CORRECT statement(s).",
+      "Imagelink": "https://i.imgur.com/5Fmt7Ux.jpg",
+      "Answers": {
+        "a": "Only (i)",
+        "b": "Only(iii)",
+        "c": "All ",
+        "d": "Only(ii)",
+        "e": "Only (i) and (ii)"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "e"
+      ]
+    },
+    {
+      "Title": "The following statements are based on information systems security, privacy and ethical issues.",
+      "Text": " Identify the INCORRECT statement(s).\r\n",
+      "Imagelink": "https://i.imgur.com/V0Jcpdz.jpg",
+      "Answers": {
+        "a": "Only (i) and (ii)",
+        "b": "Only (ii) and (iii)",
+        "c": "Only(ii)",
+        "d": "Only(iii)",
+        "e": "All"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "b"
+      ]
+    },
+    {
+      "Title": "An intranet",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "is another name for electronic data interchange.",
+        "b": "is a legacy system",
+        "c": "helps to provide useful information for the suppliers and customers of an organization. ",
+        "d": "could be used to communicate company information to its employees cost effectively. ",
+        "e": "is an internal corporate network used by employees to gain access to company information."
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "d",
+        "e"
+      ]
+    },
+    {
+      "Title": "Duplicating the design of an item or a computer program without authorisation is known as\r\n",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "reverse engineering.",
+        "b": "computer monitoring.",
+        "c": "hacking.",
+        "d": "copyright theft.",
+        "e": "electronic eavesdropping."
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "d"
+      ]
+    },
+    {
+      "Title": "Which of the following mechanism is/are useful to secure data from external access and manipulation?",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "implementing a firewall",
+        "b": "encryption of data",
+        "c": "use of virus protection software",
+        "d": "use of an operating system",
+        "e": "implementing a Virtual Private Network (VPN)"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "a",
+        "b",
+        "c",
+        "e"
+      ]
+    },
+    {
+      "Title": "Information",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "transforms data using a defined process. ",
+        "b": "is produced in response to an information need and therefore serves a specific purpose.",
+        "c": "consists of raw data.",
+        "d": "should be relevant as well as accurate.",
+        "e": "helps to improve management decision making."
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "b",
+        "d",
+        "e"
+      ]
+    },
+    {
+      "Title": "Which of the following is/are included in a Physical Design of a system?",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "characteristics of the communication software, media and device",
+        "b": "specifications of auditing, backup and output distribution methods to minimize the crimes  and frauds",
+        "c": "performance characteristics of all computer equipments needed",
+        "d": "all outputs from the system including the types, format, content and frequency of the output",
+        "e": "specification of the type, format, content and frequency of the input"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "a",
+        "b",
+        "c"
+      ]
+    },
+    {
+      "Title": "The following statements are related to computer networks. Identify the CORRECT statement(s).",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "Networks enable organizations to share data.",
+        "b": "An extranet is useful to improve communication among employees of an organization. ",
+        "c": "Networks enable organizations to share peripheral devices.",
+        "d": "The Internet is an example of a Wide Area Network (WAN). ",
+        "e": "Intranets are useful to improve communication among the employees of an organisation"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "a",
+        "c",
+        "d",
+        "e"
+      ]
+    },
+    {
+      "Title": "Major risks and uncertainties associated with systems development may include",
+      "Text": "Identify the CORRECT statement(s).",
+      "Imagelink": "https://i.imgur.com/z9OfaoM.jpg",
+      "Answers": {
+        "a": "Only(i)",
+        "b": "Only(iii)",
+        "c": "All",
+        "d": "Only(ii)",
+        "e": "Only (i) and (ii)"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "c"
+      ]
+    },
+    {
+      "Title": "Which group of individuals might be described as those who find out weaknesses in established systems and abuse them for reasons such as profit?",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "Information warriors",
+        "b": "Software pirates",
+        "c": "Crackers",
+        "d": "Computer criminals",
+        "e": "Hackers"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "e"
+      ]
+    },
+    {
+      "Title": "Which of the following activity/(ies) is/are carried out during the systems implementation phase of the traditional systems development life cycle?",
+      "Text": "",
+      "Imagelink": "",
+      "Answers": {
+        "a": "site preparation",
+        "b": "feasibility study",
+        "c": "hardware and software acquisition",
+        "d": "systems review",
+        "e": "user preparation"
+      },
+      "Answersimg": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "CorrectAns": [
+        "a",
+        "c",
+        "e"
+      ]
+    }
+  ]
+}
